@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Christiano Carta
 - 👀 I’m interested in Computer Science.
-- 🌱 I’m currently learning C
 - 📫 How to reach me: cxcarta@gmail.com
 
 <!---
