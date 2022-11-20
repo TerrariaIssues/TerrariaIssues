@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Christiano Carta
-- 👀 I’m interested in Computer Science.
+- Hi, I’m Christiano Carta
+- I’m interested in Computer Science.
 - 📫 How to reach me: cxcarta@gmail.com
 
 <!---
