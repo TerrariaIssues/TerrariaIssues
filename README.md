@@ -1,6 +1,6 @@
-- Hi, I’m Christiano Carta
+- Christiano Carta
 
-- My interests include Computer Science and Electrical Engineering
+- Computer Science 
 
 - 📫Reach me at cxcarta@gmail.com
 
