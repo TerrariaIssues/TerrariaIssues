@@ -1,4 +1,4 @@
-Christiano Carta, Computer Science Major, interested in systems & embedded programming
+Christiano Carta, Computer Science Major, interested in systems & firmware.
 - 📫Reach me at cxcarta@gmail.com
 
 <!---
